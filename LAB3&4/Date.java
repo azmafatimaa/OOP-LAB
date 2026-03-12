@@ -60,7 +60,7 @@ public class Date {
 
 
 public boolean equals(Date other){
-        if(this.day==(other.day) && this.month==(other.month) && this.year==(other.year)this.time==(other.time) )
+        if(this.day==other.day && this.month==other.month && this.year==other.year && this.time== other.time )
             return true;
         else
             return false;
