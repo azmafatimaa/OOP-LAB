@@ -2,7 +2,7 @@ public class Player {
 
     private final String name;
     private int score;
-    private Card card; // card drawn in current round
+    private Card card;
 
     Player(String name) {
         this.name = name;

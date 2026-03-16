@@ -16,7 +16,7 @@ public class Game {
         rounds = 5;
     }
 
-    // Start the game
+    
     public void startGame() {
 
         for (int r = 1; r <= rounds; r++) {
